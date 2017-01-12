@@ -1,4 +1,151 @@
 *{margin: 0;padding: 0}
-.title{width: 1000px;height: 50px;margin: 0 auto;font-size: 50px;color: gold;margin-top: 350px;font-weight: bold; padding-left: 33px;text-align: center;}
-.bs{width: 200px;margin: 0 auto;}
-.bs span{display: inline-block;width: 0px;background-color: #708098;color: #fff;height: 0px;line-height: 0px;text-align: center;margin-left: 33px;border-radius: 5px;cursor: pointer; font-family: '微软雅黑';}
+body{     
+    overflow-x: hidden;     
+    overflow-y: hidden;     
+}   
+
+.title{
+	width: 1000px;
+	height: 50px;
+	margin: auto;
+	font-size: 50px;
+	color: gold;
+	margin-top: 350px;
+	font-weight: bold;
+	padding-left: 33px;
+	text-align: center;
+}
+
+.table{
+	position:absolute;
+	right:0px; 
+	bottom:0px; 
+	width:400px; 
+	height:410px;
+}
+
+.tb{
+	position:absolute;
+	right:0px; 
+	top:95px; 
+	width:400px; 
+	height:400px;
+	color: red;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.lucker3_0{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+
+}
+.lucker2_0{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+.lucker1_0{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+.lucker0_0{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+
+.lucker3_1{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+.lucker2_1{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+.lucker1_1{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+
+.lucker3_2{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+.lucker2_2{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+
+.lucker3_3{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+.lucker2_3{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+
+.lucker3_4{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+
+.lucker3_5{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+
+.lucker3_6{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+
+.lucker3_7{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+
